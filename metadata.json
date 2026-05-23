@@ -1,0 +1,6 @@
+{
+  "name": "Theia",
+  "description": "ADHD-focused personal executive cognitive assistant with low-latency voice-first design and smart local tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
